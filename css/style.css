@@ -81,3 +81,99 @@ div.h1 {
     top: -12vw;
     left: -12vw;
 }
+.editorialone {
+    position: absolute;
+    color: white;
+    background-color: deepskyblue;
+    border-radius: 6px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    left: 8vw;
+    padding: 7px 9px;
+    top: 52px;
+}
+.editorialtwo {
+    position: absolute;
+    color: white;
+    background-color: deepskyblue;
+    border-radius: 6px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    top: 18vh;
+    left: 8vw;
+    padding: 7px 9px;
+}
+.editorialthird {
+    position: absolute;
+    color: white;
+    background-color: deepskyblue;
+    border-radius: 6px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    left: 10vw;
+    padding: 7px 9px;
+    top: 54vh;
+}
+.qone {
+    position: absolute;
+    color: white;
+    background-color: violet;
+    border-radius: 6px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    top: 22vh;
+    left: 16vh;
+    padding: 7px 9px;
+}
+.recruiting {
+    position: absolute;
+    color: white;
+    background-color: green;
+    border-radius: 6px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    left: 15vh;
+    top: 26vh;
+    padding: 7px 9px;
+}
+.mobile {
+    position: absolute;
+    color: white;
+    background-color: orange;
+    border-radius: 6px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    left: 29vh;
+    top: 30vh;
+    padding: 7px 9px;
+}
+.websites {
+    position: absolute;
+    color: white;
+    background-color: palevioletred;
+    border-radius: 6px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    top: 46vh;
+    left: 16vh;
+    padding: 7px 9px;
+}
+.sales {
+    position: absolute;
+    color: white;
+    background-color: yellowgreen;
+    border-radius: 6px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    left: 29vh;
+    top: 50vh;
+    padding: 7px 9px;
+}
